@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="http://andykimj.github.io/files/CV.pdf" width="600" height="700" type='application/pdf'> 
+<object width="400" height="500" type="application/pdf" data="http://andykimj.github.io/files/CV.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
 
 
 Download a .pdf of the latest version of my curriculum vitae [here](http://andykimj.github.io/files/CV.pdf).
