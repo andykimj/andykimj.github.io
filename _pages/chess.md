@@ -14,3 +14,5 @@ I’m a class-A chess player (Elo 1800-2000). I try to find spare time here and 
 Enjoy some of the coolest and most embarrassing games I’ve ever played, with all their scathing commentary.
 
 <iframe id="9826883" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=9826883"></iframe><script>window.addEventListener("message",e=>{e['data']&&"9826883"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/Ivlnfo59/fJd3RppG" frameborder=0></iframe>
