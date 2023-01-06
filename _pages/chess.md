@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-In my free time, I enjoy playing chess semi-competitively. I’m a Class A player (Elo 1800-2000). I really like how chess allows me, for at least a moment while I play, to completely forget about any stressors at work and in life. Chess has also moulded me into an individual who is more comfortable with embracing obstacles and failure.
+In my free time, I enjoy playing chess semi-competitively. I’m a [Class A](https://en.wikipedia.org/wiki/Elo_rating_system#United_States_Chess_Federation_ratings) player (Elo 1800-2000). I really like how chess allows me, for at least a moment while I play, to completely forget about any stressors at work and in life. Chess has also moulded me into an individual who is more comfortable with embracing obstacles and failure.
 
 Below, enjoy both some of the coolest and some of the most embarrassing games that I’ve ever played, with all of their scathing commentary. I am the bottom color in each of the following boards.
 
