@@ -44,4 +44,4 @@ Weber BN, Zhou G, Kim A, et al. Impact of Interleukin-6 Receptor Blockade With T
 
 ### 2022
 
-Kim AJ, Goldberg HJ, Thaniyavarn T, Kennedy JC, Coppolino A, Mallidi HR, Lee SF, Joyce MM, Kovac V, Issa NC, Harris CE, LaCasce AS, Sharma NS, Baden LR, Woolley AE. Epstein-Barr Virus Surveillance in Lung Transplantation: Post-transplant Lymphoproliferative Disorder and Impact on Survival. Poster presented at: _IDWeek 2022_; October 20, 2022; Washington, DC. [Poster](http://andykimj.github.io/files/idweek2022_poster.pdf). [Abstract](https://academic.oup.com/ofid/article/9/Supplement_2/ofac492.286/6902274)
+Kim AJ, Goldberg HJ, Thaniyavarn T, Kennedy JC, Coppolino A, Mallidi HR, Lee SF, Joyce MM, Kovac V, Issa NC, Harris CE, LaCasce AS, Sharma NS, Baden LR, Woolley AE. Epstein-Barr Virus Surveillance in Lung Transplantation: Post-transplant Lymphoproliferative Disorder and Impact on Survival. Poster presented at: _IDWeek 2022_; October 20, 2022; Washington, DC. [Poster](http://andykimj.github.io/files/idweek2022_poster.pdf) [Abstract](https://academic.oup.com/ofid/article/9/Supplement_2/ofac492.286/6902274)
