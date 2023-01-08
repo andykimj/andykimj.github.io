@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I was not an avid reader growing up, but I decided in 2022 that I would no longer take that as an excuse to not be well-read on literature. So I regularly read fiction, mostly the classics, in my free time. Here are some of the texts I’ve read.
+I was not an avid reader growing up. However, I decided after college that I wanted to change that and become more well-read and educated on literature. So I now regularly read fiction, mostly classics. Here are some of the texts I’ve read and enjoyed.
 
 [Albert Camus - _The Stranger_](https://bookshop.org/p/books/the-stranger-albert-camus/15564796?ean=9780679720201)
 <br/><img src='/images/stranger.jpg'>
