@@ -9,21 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-In my free time, I enjoy playing chess semi-competitively. I’m a [Class A](https://en.wikipedia.org/wiki/Elo_rating_system#United_States_Chess_Federation_ratings) player (Elo 1800-2000). I really like how chess allows me, for at least a moment while I play, to completely forget about any stressors at work and in life. Chess has also moulded me into an individual who is more comfortable with embracing obstacles and failure.
+I play chess semi-competitively in my free time. I’m a [Class A](https://en.wikipedia.org/wiki/Elo_rating_system#United_States_Chess_Federation_ratings) player (Elo 1800-2000). I appreciate how chess can absorb all my focus at a given moment, relieving me from any stressors from work and life. Chess has also moulded me into an individual who is more comfortable with embracing obstacles and failure.
 
-Below, enjoy both some of the coolest and some of the most embarrassing games that I’ve ever played, with all of their scathing commentary. I am the bottom color in each of the following boards.
+Below, enjoy both some of the coolest and some of the most embarrassing games that I’ve ever played, with included commentary and annotations. I am the bottom color in each of the following boards.
 
-This is the first game that I ever played in an official tournament. I was living in San Francisco at the time, and entered a weekend tournament at the world-renowned, historical [Mechanics' Institute Chess Club](https://www.milibrary.org/chess). I had recently turned 22 years old, but I was still much more inexperienced and nervous than my teenage opponent. My quality of play here is substantially lower than that shown in later games.
+This first game is actually the first that I ever played in a tournament. I was living in San Francisco at the time and entered a weekend tournament at the world-renowned, historical [Mechanics' Institute Chess Club](https://www.milibrary.org/chess). I had recently turned 22 years old, but I was still much more inexperienced and nervous than my teenage opponent was. My quality of play here is unsurprisingly lower than that shown in later games.
 
 <iframe id="9844007" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=9844007"></iframe><script>window.addEventListener("message",e=>{e['data']&&"9844007"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-The following game is definitely the most crushing defeat that I have ever suffered. This may sound odd, given that my opponent was rated higher than me, making me the slight underdog. However, it was the manner at which I lost that makes this game one that I will never forget.
+The following game is definitely the most crushing defeat that I have ever suffered. This may seem odd, given that my opponent was rated higher than me, making me the slight underdog. However, it was the manner at which I lost that makes this game one that I will never forget.
 
-At the time, I entered the game having just scored a miraculous upset in the previous round, with a draw against a National Master (Elo 2200+). The confidence that I had built up was destroyed after this game. I still think sometimes about how painful it was.
+At the time, I entered the game having scored a miraculous upset in the previous round, with a draw against a National Master (Elo 2200+). The confidence that I built up was destroyed by this game. I still think sometimes about how painful it was.
 
 <iframe id="9844009" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=9844009"></iframe><script>window.addEventListener("message",e=>{e['data']&&"9844009"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-Fast forward two years later: I have been living in Boston for some time. The pandemic began about a year ago, and the [Boylston Chess Club](https://boylstonchess.org/) has just re-opened for small tournaments with strict masking rules in place. I enter the tournament having just crossed Elo 1800. The first in-person game I play in over a year would turn out to be a nice one.
+Two years later, after moving to Boston, I was a regular at the [Boylston Chess Club](https://boylstonchess.org/). The club re-opened in 2021 after a year of the COVID-19 pandemic for small tournaments with strict masking rules in place. I entered my first tournament after a hiatus having just crossed Elo 1800 prior. The first in-person game I played in over a year turned out to be a nice one.
 
 <iframe id="9844011" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=9844011"></iframe><script>window.addEventListener("message",e=>{e['data']&&"9844011"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
