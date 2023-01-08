@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Andy J. Kim"
   avatar           : "profile.JPG"
-  bio              : Clinical Research Assistant
+  bio              : "Clinical Research Assistant"
   location         : "Boston, MA"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=uB-93K4AAAAJ&hl=en&authuser=1&oi=sra"
   email            : "jkim1@bwh.harvard.edu"
   researchgate     : 
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "andykimj"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         : "andykimj"
-  orcid            : "http://orcid.org/my-orcid?orcid=0000-0001-6551-2881"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
