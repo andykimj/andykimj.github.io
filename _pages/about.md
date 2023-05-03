@@ -12,4 +12,4 @@ I’m a clinical research assistant in infectious diseases at [Brigham and Women
 
 I was born in Seoul, South Korea and was raised in various suburbs outside of Toronto, Ontario. Prior to joining the Brigham, I graduated from Emory University a Bachelor of Science in [Physics](https://physics.emory.edu/home/index.html) and worked in business management in the corporate offices of a large [retailer](https://corporate.walmart.com/) in Silicon Valley. 
 
-Outside of work, you’ll find me watching sports, playing [chess](https://andykimj.com/chess/), [reading](https://andykimj.com/reading/), or going to a brewery with friends. 
+Outside of work, you’ll find me watching sports, playing [chess](https://andykimj.com/chess/), reading, or going to a sports pub with friends. 
