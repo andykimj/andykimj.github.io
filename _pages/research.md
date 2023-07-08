@@ -15,7 +15,7 @@ author_profile: true
 
 ### 2023
 
-Dryden-Peterson S, **Kim A**, Kim AY, Caniglia EC, Lennes I, Patel R, Gainer L, Dutton L, Donahue E, Gandhi RT, Baden LR, Woolley AE. Nirmatrelvir Plus Ritonavir for Early COVID-19 in a Large U.S. Health System : A Population-Based Cohort Study [published online ahead of print, 2022 Dec 13]. _Ann Intern Med_. 2022;M22-2141. doi:10.7326/M22-2141 [Link](https://www.acpjournals.org/doi/10.7326/M22-2141)
+Dryden-Peterson S, **Kim A**, Kim AY, Caniglia EC, Lennes I, Patel R, Gainer L, Dutton L, Donahue E, Gandhi RT, Baden LR, Woolley AE. Nirmatrelvir Plus Ritonavir for Early COVID-19 in a Large U.S. Health System : A Population-Based Cohort Study. _Ann Intern Med_. 2023;176(1):77-84. doi:10.7326/M22-2141 [Link](https://www.acpjournals.org/doi/10.7326/M22-2141)
 
 ### 2022
 
@@ -42,6 +42,10 @@ Weber BN, Zhou G, **Kim A**, Pearson JC, Stone J, DiCarli M, Nikiforow S, Woolle
 
 ## Given Presentations
 
+### 2023
+
+**Kim A**, Joyce MM, Sharma NS, Goldberg HJ, Mehra MR, Givertz MM, Mallidi HR, Itoh A, Coppolino A, Keshk MA, Woodcome EL, Durney V, Harris CE, Kovac V, Issa NC, LaCasce AS, Baden LR, Woolley AE. Optimizing Epstein-Barr Virus Surveillance in Thoracic Transplantation for Early Diagnosis of Post-Transplant Lymphoproliferative Disorder. Oral presentation at: _ATC 2023_; June 6, 2023; San Diego, CA. [Abstract](https://www.amjtransplant.org/article/S1600-6135(23)00474-4/pdf#page=251)
+
 ### 2022
 
-**Kim AJ**, Goldberg HJ, Thaniyavarn T, Kennedy JC, Coppolino A, Mallidi HR, Lee SF, Joyce MM, Kovac V, Issa NC, Harris CE, LaCasce AS, Sharma NS, Baden LR, Woolley AE. Epstein-Barr Virus Surveillance in Lung Transplantation: Post-transplant Lymphoproliferative Disorder and Impact on Survival. Poster presented at: _IDWeek 2022_; October 20, 2022; Washington, DC. [Poster](http://andykimj.github.io/files/idweek2022_poster.pdf) [Abstract](https://academic.oup.com/ofid/article/9/Supplement_2/ofac492.286/6902274)
+**Kim AJ**, Goldberg HJ, Thaniyavarn T, Kennedy JC, Coppolino A, Mallidi HR, Lee SF, Joyce MM, Kovac V, Issa NC, Harris CE, LaCasce AS, Sharma NS, Baden LR, Woolley AE. Epstein-Barr Virus Surveillance in Lung Transplantation: Post-transplant Lymphoproliferative Disorder and Impact on Survival. Poster presentation at: _IDWeek 2022_; October 20, 2022; Washington, DC. [Poster](http://andykimj.github.io/files/idweek2022_poster.pdf) [Abstract](https://academic.oup.com/ofid/article/9/Supplement_2/ofac492.286/6902274)

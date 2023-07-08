@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m a clinical research assistant in infectious diseases at [Brigham and Women's Hospital](https://www.brighamandwomens.org/research/departments/infectious-disease/research), a Harvard-affiliated institution. I've conducted research in transplant infectious diseases and COVID-19 [therapeutics](https://www.wcvb.com/article/boston-researchers-significant-paxlovid-benefit-covid-19-vaccinated-patients/42220461) and [diagnostics](https://testboston.org/). I’m now pursuing a career in medicine and will be matriculating to medical school this fall. My broad interests are in internal medicine and various medical subspecialties. I’m also interested in research and teaching. 
+I’m a first-year medical student at the University of Massachusetts T.H. Chan School of Medicine. My broad interests are in internal medicine and various medical subspecialties. I’m also interested in research and teaching. I am currently seeking opportunities in quality improvement and/or clinical research in the medical subspecialties.
 
-I was born in Seoul, South Korea and was raised in various suburbs outside of Toronto, Ontario. Prior to joining the Brigham, I graduated from Emory University a Bachelor of Science in [Physics](https://physics.emory.edu/home/index.html) and worked in business management in the corporate offices of a large [retailer](https://corporate.walmart.com/) in Silicon Valley. 
+I was born in Seoul, South Korea and was raised in various suburbs outside of Toronto, Ontario. I graduated from Emory University with a Bachelor of Science in Physics and then worked in business management in the corporate offices of a large [retailer](https://corporate.walmart.com/) in Silicon Valley. Prior to medical school, I conducted clinical research in transplant infectious diseases and COVID-19 [therapeutics](https://www.wcvb.com/article/boston-researchers-significant-paxlovid-benefit-covid-19-vaccinated-patients/42220461) and [diagnostics](https://testboston.org/) at Brigham and Women's Hospital, a Harvard-affiliated institution.
 
-Outside of work, you’ll find me watching sports, playing [chess](https://andykimj.com/chess/), reading, or going to a sports pub with friends. 
+Outside of work, you’ll find me playing [chess](https://andykimj.com/chess/), reading, or watching sports with friends.
